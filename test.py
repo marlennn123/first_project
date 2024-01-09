@@ -1,3 +1,4 @@
 print("Hello World")
-hfjslfhsd
-sdfsdkjhfs
+def summ(d,s):
+  return d + s 
+dfdfgs
